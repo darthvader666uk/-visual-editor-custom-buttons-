@@ -1,14 +1,3 @@
-=== Visual Editor Custom Buttons ===
-Contributors: cyberduck, darthvader666uk
-Donate link: 
-Tags: visual editor, rich editor, tiny mce editor, buttons, custom, quicktag, html editor, tinymce, customize
-Requires at least: 4.7
-Tested up to: 5.4
-Stable tag: 1.5.2.3
-Version: 1.5.2.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
 # Current updates for abandoned plugin
 
 Current updates for abandoned plugin - Visual Editor Custom Buttons https://wordpress.org/plugins/visual-editor-custom-buttons/

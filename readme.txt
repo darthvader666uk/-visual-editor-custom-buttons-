@@ -9,6 +9,10 @@ Version: 1.5.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+# visual-editor-custom-buttons
+
+Current updates for abandoned plugin - Visual Editor Custom Buttons https://wordpress.org/plugins/visual-editor-custom-buttons/
+
 Visual Editor Custom Buttons lets you add custom buttons to the Wordpress Visual Editor. 
 
 == Description ==

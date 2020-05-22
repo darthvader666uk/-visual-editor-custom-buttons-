@@ -1,9 +1,9 @@
 === Visual Editor Custom Buttons ===
-Contributors: cyberduck
+Contributors: cyberduck, darthvader666uk
 Donate link: 
 Tags: visual editor, rich editor, tiny mce editor, buttons, custom, quicktag, html editor, tinymce, customize
 Requires at least: 4.7
-Tested up to: 5.0.3
+Tested up to: 5.4
 Stable tag: 1.5.2.3
 Version: 1.5.2.3
 License: GPLv2 or later

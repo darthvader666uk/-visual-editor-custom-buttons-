@@ -54,3 +54,5 @@ If your prior version was 1.0, backup own added custom icons before upgrading. T
 
 *ATTENTION* 
 When upgrading to version 1.4 an angry error message about a js-path that doesn´t exist will appear. This has to do with a change in the way the js-files are named, to make it work in a network invironment. Just ignore this message, it will only appear once. If it for some reason still comes up, resave your buttons and it will definately not bother you again.
+
+<a href="https://www.buymeacoffee.com/disruptthinking" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>

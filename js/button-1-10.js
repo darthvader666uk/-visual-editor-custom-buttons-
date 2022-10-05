@@ -9,8 +9,8 @@ function getBaseURL () {
     tinymce.create('tinymce.plugins.vecb_button10', {
         init : function(ed, url) {
             ed.addButton('vecb_button10', {
-                title : 'Podcast Bottom',image : url+'/icons/microphone.png',onclick : function() {
-                     ed.selection.setContent('<p style="text-align: center;"><a href="https://www.youtube.com/thumbculturev2">YouTube</a> | <a href="https://en-gb.facebook.com/ThumbCulture/">FaceBook</a> | <a href="https://twitter.com/thumb_culture?lang=en">Twitter</a> | <a href="https://www.instagram.com/thumb_culture/">Instagram | <a href="https://www.twitch.tv/thumb_culture">Twitch</a></p>');
+                title : 'Info Box',image : url+'/icons/book.png',onclick : function() {
+                     ed.selection.setContent('<div class="info_panel bordered bordered rounded-3"><div class="info_panel_row"><strong>Developer:</strong>NAME</div><div class="info_panel_row"><strong>Publisher:</strong>NAME</div><div class="info_panel_row"><strong>Release Date</strong>: DATE</div><div class="info_panel_row"><strong>Platforms:</strong> FORMAT</div></div>');
                 }
             });
         },
